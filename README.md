@@ -2,7 +2,7 @@
 
 Hello! My Name is Pisit or you can call me Kong. I have passionate in front-end development because I impressive in someone that can implement the ux/ui design into the application So in the future I will be the developer that can implement the amazing design to application.
     
-Now I have study computer engineering at [KMUTT](https://www.kmutt.ac.th/) so I have experience in developing projects by using many front-end framework which the one i can use and most likely to use is typescript.I also have experience in another frameworks too. I very enjoy in front-end development and will always improve myself to be the better one in the future.
+Now I have study computer engineering at [KMUTT](https://www.kmutt.ac.th/) so I have experienced in developing projects by using many front-end framework which the one i can use and most likely to use is typescript.I also have experienced in another frameworks too. I very enjoy in front-end development and will always improve myself to be the better one in the future.
 </br>**📧 Email:** [pthitiakkarasak@gmail.com](mailto:pthitiakkarasak@gmail.com)
 
 ### Connect with Me
