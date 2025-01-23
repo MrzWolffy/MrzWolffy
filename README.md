@@ -25,4 +25,8 @@ Now I have study computer engineering at [KMUTT](https://www.kmutt.ac.th/) so I 
   <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">
   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="node.js" width="40" height="40"/>
+    
 </div>
